@@ -1,0 +1,7 @@
+Port 2222
+PasswordAuthentication yes
+KbdInteractiveAuthentication no
+PubkeyAuthentication yes
+PermitRootLogin no
+UsePAM yes
+Subsystem sftp internal-sftp

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>de</string>
+	<key>CFBundleDisplayName</key>
+	<string>FileHub</string>
+	<key>CFBundleExecutable</key>
+	<string>FileHub</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.filehub</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>de</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>FileHub</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.developer-tools</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>FileHub zeigt den Schreibtisch an, um Dateien von dort hochzuladen oder dorthin herunterzuladen.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>FileHub zeigt den Ordner „Dokumente“ an, um Dateien von dort hochzuladen oder dorthin herunterzuladen.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>FileHub zeigt den Ordner „Downloads“ an, um Dateien von dort hochzuladen oder dorthin herunterzuladen.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Sicherer Dateitransfer per SFTP und FTPS.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>FileHub zeigt Ordner auf Netzlaufwerken an, um Dateien daraus hochzuladen oder dorthin herunterzuladen.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>FileHub zeigt Ordner auf externen Laufwerken an, um Dateien daraus hochzuladen oder dorthin herunterzuladen.</string>
+</dict>
+</plist>
